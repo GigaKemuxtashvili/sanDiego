@@ -1,0 +1,85 @@
+@media screen and (max-width:768px) {
+    .contents {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+    }
+    .img-contents div{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        justify-content: center;
+    }
+}
+@media screen and (max-width:400px){
+    
+    .butom {
+        margin-top: -20px;
+    }
+}
+@media screen and (max-width:768px) {
+    .mrgvalebi {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .widget-conteiner {
+        display: flex;
+        flex-direction: column;
+        margin: 89% 0% 0% 0% ;
+    }
+    .page-element {
+        width: 0px;
+    }
+}
+@media screen and (max-width:768px) {
+    .first-img {
+        display: none;
+    }
+    .second-img {
+        margin-top: 5%;
+    }
+    .sect-text {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
+@media screen and (max-width:768px) {
+    .second-card-area {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+    }
+    .second-card-area img {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+@media screen and (max-width:768px) {
+    .main-footer-aside {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+    }
+    .aside-img-div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .second-clear {
+        height: 60px;
+    }
+}
